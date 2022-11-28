@@ -1,0 +1,28 @@
+{
+  "name": "challenge-1",
+  "version": "1.0.0",
+  "description": "challenge-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phylis13/challenge-1.git"
+  },
+  "keywords": [
+    "salary",
+    "speed",
+    "score",
+    "netSalary"
+  ],
+  "author": "phylis njeri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phylis13/challenge-1/issues"
+  },
+  "homepage": "https://github.com/phylis13/challenge-1#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
