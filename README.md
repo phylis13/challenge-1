@@ -10,7 +10,20 @@ in Visual Studio Code
 You will be writing your code in the `index.js` file and running the tests by
 running `node index.js` in the terminal.
 
-lets get started
+# lets get started
+- fork the code on your github
+
+- Open a terminal / command line interface on your computer
+- Clone the repo 
+- Change directory to the repo
+- Open it in ``Visual Studio Code``
+
+# Running the application
+
+Running the application we use the node index.js on the terminal
+
+# create the challenge  3 files
+crete the files in this the gradeGenerator,speeddetector and the netsalaryCalculator
 ## STEP 1:
  Define a function ( gradeCalculator), set it to a function (arguments - score and total) and f
 { Function body }
@@ -39,7 +52,8 @@ Write a program that takes as input the speed of a car e.g 80. If the speed is l
 
 For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
 
-lets get started
+## lets get started
+
 we start by defining the function
 # step 1
 use if statement 
@@ -80,6 +94,12 @@ Block takes into account NSSF, NHIF figures and PAYE function above.
 call the function using console.log to return the net salary
 then test the code on your terminal using node index.js
 
+
+## Authors
+This project was contributed to by:
+"git+https://github.com/phylis13/challenge-1.git"
+## license
+The project is licensed under "ISC"
 
 
 
